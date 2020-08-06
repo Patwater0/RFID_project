@@ -1,3 +1,5 @@
+// Simple script for the arduino that displays a tempurature and humidity on a 12x2 lcd display using the DHT sensor
+
 #include <Adafruit_Sensor.h>
 #include <DHT.h>
 #include <DHT_U.h>
